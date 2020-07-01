@@ -143,6 +143,10 @@ nav{
     height: 100%;
 }
 
+.image_area:hover{
+    cursor: pointer;
+}
+
 .youtube{
     position: absolute;
     font-size: 80px;
